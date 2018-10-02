@@ -38,7 +38,7 @@ public class ActionListenerSample2 {
                JOptionPane.showMessageDialog(null,"Hey!Baby");
         }
         
-        }//////////////////////////////////////////////////////
+        });//////////////////////////////////////////////////////
         frame.add(button);
         
         frame.setVisible(true);
